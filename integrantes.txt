@@ -1,0 +1,7 @@
+Practica1 Vue3
+Diplomado desarrollo full stack Back end y Front End
+Nombre Completo:
+- Juan Wilson Mallcu Morales
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run serve
